@@ -53,8 +53,7 @@ def scan_zip_for_qr_codes(zip_path):
             
             if result:
                 found_count += 1
-                print(f"[✓] QR Code #{found_count} - File: {img_file}")
-                print(f"    Content: {result}")
+                print(f"[✓] QR Code #{found_count} - File: {img_file} - Data: {result}")
                 print()
             
             # Progress indicator every 100 files
