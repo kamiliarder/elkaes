@@ -1,0 +1,1 @@
+FLAG{bruteforce_is_just_fast_guessing_99}

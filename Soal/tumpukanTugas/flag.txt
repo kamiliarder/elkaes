@@ -1,0 +1,1 @@
+FLAG{scripting_is_your_best_friend_1337}
